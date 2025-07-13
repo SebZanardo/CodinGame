@@ -1,0 +1,14 @@
+# Anything without an extension
+*
+!/**/
+!*.*
+
+
+# MacOS
+.DS_Store
+
+
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
